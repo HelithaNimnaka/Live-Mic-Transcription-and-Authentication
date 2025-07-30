@@ -3,3 +3,4 @@ pretrained_models/
 speakers/
 transcripts.txt
 .env
+__pycache__/
