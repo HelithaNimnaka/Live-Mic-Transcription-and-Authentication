@@ -1,0 +1,13 @@
+streamlit
+sounddevice
+soundfile
+torch
+librosa
+matplotlib
+speechbrain
+clearvoice
+denoiser
+#set PYTHONUTF8=1
+nemo_toolkit['asr']
+#$env:PYTHONUTF8=1; pip install nemo_toolkit['asr']
+transformers
