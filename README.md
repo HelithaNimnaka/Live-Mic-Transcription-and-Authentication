@@ -1,6 +1,11 @@
 # 🎤 Live Mic Transcription + Speaker Authentication
 
+
 A Streamlit-based web application that enables live voice recording, transcription using Whisper, and speaker authentication using NVIDIA NeMo's speaker verification model. This project also supports manual login/enrollment for added user management.
+
+---
+
+![User Interface Screenshot](Images/Screenshot.png)
 
 ---
 
